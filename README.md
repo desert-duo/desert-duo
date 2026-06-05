@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=desert-duo&label=Profile%20views&color=6e3722&style=flat" alt="desert-duo" /> </p>
-
 
 $$ \color{#9c5b30}{\text{any/all}} $$
 
