@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=desert-duo&label=Profile%20views&color=000000&style=flat" alt="desert-duo" /> </p>
 
 
-<p align="center"> <img width="736" height="981" alt="desertduobannergithub" src="https://github.com/user-attachments/assets/1187c2c2-c8dd-4e91-86fa-9f4df20e5c0d" />
+<p align="left"> <img width="411" height="560" alt="githubcreepygrianfunnybanner" src="https://github.com/user-attachments/assets/0e030d6b-5df7-47e2-9734-6e92028cd0d8" />
+
 
