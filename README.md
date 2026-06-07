@@ -1,5 +1,5 @@
 
-$$ \color{#9c5b30}{\text{any/all}} $$
+$$ \color{#ffc55d}{\text{pronouns change depending on my pony}} $$
 
 $$ \color{#6e3722}{\text{16}} $$
 
