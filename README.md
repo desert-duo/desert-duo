@@ -1,9 +1,9 @@
 
 $$ \color{#ffc55d}{\text{pronouns change depending on my pony}} $$
 
-$$ \color{#ff9647}{\text{16}} $$
+$$ \color{#b15c2a}{\text{16}} $$
 
-$$ \color{#ff7739}{\text{" I always thought, i might be bad "}} $$
+$$ \color{#914422}{\text{" I always thought, i might be bad "}} $$
 
 $$ \color{#883519}{\text{" now i'm sure that it's true "}} $$
 
